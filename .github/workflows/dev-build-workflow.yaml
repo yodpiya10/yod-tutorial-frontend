@@ -12,7 +12,7 @@ on:
 
 env:
   APP_NAME: yod-tutorial-frontend
-  CONTAINER_REPOSITORY: "acr[name]tutorial001.azurecr.io"
+  CONTAINER_REPOSITORY: "acryodtutorial001.azurecr.io"
   IMAGE_TAG: "0.0.1-SNAPSHOT"
 
 jobs:
